@@ -1,0 +1,1304 @@
+{
+  "status": true,
+  "status_code": 200,
+  "data": {
+    "current_page": 1,
+    "last_page": 466,
+    "last_page_url": 466,
+    "next_page_url": "https://harpeetjapanhms.aaldadev.link/api/v1/medicines?page=2",
+    "path": "https://harpeetjapanhms.aaldadev.link/api/v1/medicines?page=1",
+    "per_page": "20",
+    "prev_page_url": null,
+    "total": 9307,
+    "items": [
+      {
+        "id": 9409,
+        "product_name": "クラバセプチン錠62.5",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9307",
+        "hiragana_name": "くらばせぷちんじょう62.5",
+        "katakana_name": "クラバセプチンジョウ62.5",
+        "product_display_name": "クラバセプチン錠62.5",
+        "search_keys": "",
+        "api_active_ingredient": "アモキシシリン水和物",
+        "volume_unit": "Tablet (錠)",
+        "indication": "細菌感染によって起こる症状を治療する抗生物質です。 ＊湿気には十分注意してください。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "クラバセプチン錠62.5",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9409,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9409,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9408,
+        "product_name": "クラバセプチン錠50",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9306",
+        "hiragana_name": "くらばせぷちんじょう50",
+        "katakana_name": "クラバセプチンジョウ50",
+        "product_display_name": "クラバセプチン錠50",
+        "search_keys": "",
+        "api_active_ingredient": "アモキシシリン水和物",
+        "volume_unit": "Tablet (錠)",
+        "indication": "細菌感染によって起こる症状を治療する抗生物質です。 ＊湿気には十分注意してください。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "クラバセプチン錠50",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9408,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9408,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9407,
+        "product_name": "クラバセプチン錠250",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9305",
+        "hiragana_name": "くらばせぷちんじょう250",
+        "katakana_name": "クラバセプチンジョウ250",
+        "product_display_name": "クラバセプチン錠250",
+        "search_keys": "",
+        "api_active_ingredient": "アモキシシリン水和物",
+        "volume_unit": "Tablet (錠)",
+        "indication": "細菌感染によって起こる症状を治療する抗生物質です。 ＊湿気には十分注意してください。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "クラバセプチン錠250",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9407,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9407,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9406,
+        "product_name": "アニビタン500注射液",
+        "category_id": 138,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9304",
+        "hiragana_name": "あにびたん500ちゅうしゃえき",
+        "katakana_name": "アニビタン500チュウシャエキ",
+        "product_display_name": "アニビタン500注射液",
+        "search_keys": "",
+        "api_active_ingredient": "フルスルチアミン塩酸塩",
+        "volume_unit": "mL",
+        "indication": "ビタミンB1の補給及びビタミンB1欠乏による疾病の予防と治療に用いられます。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "mL",
+        "sub_category_id": 270,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "アニビタン500注射液",
+        "categorymap": {
+          "id": 138,
+          "parent_id": null,
+          "category_name": "注射薬",
+          "data_title": "注射薬"
+        },
+        "subcategorymap": {
+          "id": 270,
+          "parent_id": 138,
+          "category_name": "ビタミン・栄養・ミネラル剤",
+          "data_title": "ビタミン・栄養・ミネラル剤"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9406,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9406,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9405,
+        "product_name": "アニビタン100注射液",
+        "category_id": 138,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9303",
+        "hiragana_name": "あにびたん100ちゅうしゃえき",
+        "katakana_name": "アニビタン100チュウシャエキ",
+        "product_display_name": "アニビタン100注射液",
+        "search_keys": "",
+        "api_active_ingredient": "フルスルチアミン塩酸塩",
+        "volume_unit": "mL",
+        "indication": "ビタミンB1の補給及びビタミンB1欠乏による疾病の予防と治療に用いられます。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "mL",
+        "sub_category_id": 270,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "アニビタン100注射液",
+        "categorymap": {
+          "id": 138,
+          "parent_id": null,
+          "category_name": "注射薬",
+          "data_title": "注射薬"
+        },
+        "subcategorymap": {
+          "id": 270,
+          "parent_id": 138,
+          "category_name": "ビタミン・栄養・ミネラル剤",
+          "data_title": "ビタミン・栄養・ミネラル剤"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9405,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9405,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9404,
+        "product_name": "トリロスタン錠5mg",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9302",
+        "hiragana_name": "とりろすたんじょう5mg",
+        "katakana_name": "トリロスタンジョウ5mg",
+        "product_display_name": "トリロスタン錠5mg",
+        "search_keys": "",
+        "api_active_ingredient": "トリロスタン",
+        "volume_unit": "Tablet (錠)",
+        "indication": "脱毛、食欲亢進、喉の渇きなど副腎皮質機能亢進に伴う諸症状を改善する薬です。 ＊薬剤を触った後は手をよく洗うようにしてください。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "トリロスタン錠5mg",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9404,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9404,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9403,
+        "product_name": "トリロスタン錠2.5mg",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9301",
+        "hiragana_name": "とりろすたんじょう2.5mg",
+        "katakana_name": "トリロスタンジョウ2.5mg",
+        "product_display_name": "トリロスタン錠2.5mg",
+        "search_keys": "",
+        "api_active_ingredient": "トリロスタン",
+        "volume_unit": "Tablet (錠)",
+        "indication": "脱毛、食欲亢進、喉の渇きなど副腎皮質機能亢進に伴う諸症状を改善する薬です。 ＊薬剤を触った後は手をよく洗うようにしてください。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "トリロスタン錠2.5mg",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9403,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9403,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9402,
+        "product_name": "トリロスタン錠10mg",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9300",
+        "hiragana_name": "とりろすたんじょう10mg",
+        "katakana_name": "トリロスタンジョウ10mg",
+        "product_display_name": "トリロスタン錠10mg",
+        "search_keys": "",
+        "api_active_ingredient": "トリロスタン",
+        "volume_unit": "Tablet (錠)",
+        "indication": "脱毛、食欲亢進、喉の渇きなど副腎皮質機能亢進に伴う諸症状を改善する薬です。 ＊薬剤を触った後は手をよく洗うようにしてください。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "トリロスタン錠10mg",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9402,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9402,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9401,
+        "product_name": "トリロスタブ60",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9299",
+        "hiragana_name": "とりろすたぶ60",
+        "katakana_name": "トリロスタブ60",
+        "product_display_name": "トリロスタブ60",
+        "search_keys": "",
+        "api_active_ingredient": "トリロスタン",
+        "volume_unit": "Tablet (錠)",
+        "indication": "脱毛、食欲亢進、喉の渇きなど副腎皮質機能亢進に伴う諸症状を改善する薬です。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "トリロスタブ60",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9401,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9401,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9400,
+        "product_name": "トリロスタブ5",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9298",
+        "hiragana_name": "とりろすたぶ5",
+        "katakana_name": "トリロスタブ5",
+        "product_display_name": "トリロスタブ5",
+        "search_keys": "",
+        "api_active_ingredient": "トリロスタン",
+        "volume_unit": "Tablet (錠)",
+        "indication": "脱毛、食欲亢進、喉の渇きなど副腎皮質機能亢進に伴う諸症状を改善する薬です。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "トリロスタブ5",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9400,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9400,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9399,
+        "product_name": "トリロスタブ30",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9297",
+        "hiragana_name": "とりろすたぶ30",
+        "katakana_name": "トリロスタブ30",
+        "product_display_name": "トリロスタブ30",
+        "search_keys": "",
+        "api_active_ingredient": "トリロスタン",
+        "volume_unit": "Tablet (錠)",
+        "indication": "脱毛、食欲亢進、喉の渇きなど副腎皮質機能亢進に伴う諸症状を改善する薬です。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "トリロスタブ30",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9399,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9399,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9398,
+        "product_name": "トリロスタブ10",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9296",
+        "hiragana_name": "とりろすたぶ10",
+        "katakana_name": "トリロスタブ10",
+        "product_display_name": "トリロスタブ10",
+        "search_keys": "",
+        "api_active_ingredient": "トリロスタン",
+        "volume_unit": "Tablet (錠)",
+        "indication": "脱毛、食欲亢進、喉の渇きなど副腎皮質機能亢進に伴う諸症状を改善する薬です。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 314,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "トリロスタブ10",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 314,
+          "parent_id": 139,
+          "category_name": "その他の内服薬",
+          "data_title": "その他の内服薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9398,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9398,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9397,
+        "product_name": "ボミットバスター錠2mg",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9295",
+        "hiragana_name": "ぼみっとばすたーじょう2mg",
+        "katakana_name": "ボミットバスタージョウ2mg",
+        "product_display_name": "ボミットバスター錠2mg",
+        "search_keys": "",
+        "api_active_ingredient": "塩酸メトクロプラミド",
+        "volume_unit": "Tablet (錠)",
+        "indication": "胃炎・腸炎等に伴う嘔吐・食欲不振を治療します。また、駆虫剤投与時の嘔吐症状を抑えます。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 295,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "ボミットバスター錠2mg",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 295,
+          "parent_id": 139,
+          "category_name": "整腸剤・止瀉薬",
+          "data_title": "整腸剤・止瀉薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9397,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9397,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9396,
+        "product_name": "ワンハート錠5",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9294",
+        "hiragana_name": "わんはーとじょう5",
+        "katakana_name": "ワンハートジョウ5",
+        "product_display_name": "ワンハート錠5",
+        "search_keys": "",
+        "api_active_ingredient": "ベナゼプリル塩酸塩",
+        "volume_unit": "Tablet (錠)",
+        "indication": "心臓の血液の流れを改善することで、心不全に伴う咳や呼吸困難、運動不耐性、食欲不振、活動性の低下等を改善します。また、慢性腎臓病（慢性腎不全）による尿中への蛋白の流出を抑制します。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 293,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "ワンハート錠5",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 293,
+          "parent_id": 139,
+          "category_name": "その他の循環器系用薬",
+          "data_title": "その他の循環器系用薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9396,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9396,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9395,
+        "product_name": "ワンハート錠2.5",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9293",
+        "hiragana_name": "わんはーとじょう2.5",
+        "katakana_name": "ワンハートジョウ2.5",
+        "product_display_name": "ワンハート錠2.5",
+        "search_keys": "",
+        "api_active_ingredient": "ベナゼプリル塩酸塩",
+        "volume_unit": "Tablet (錠)",
+        "indication": "心臓の血液の流れを改善することで、心不全に伴う咳や呼吸困難、運動不耐性、食欲不振、活動性の低下等を改善します。また、慢性腎臓病（慢性腎不全）による尿中への蛋白の流出を抑制します。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 293,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "ワンハート錠2.5",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 293,
+          "parent_id": 139,
+          "category_name": "その他の循環器系用薬",
+          "data_title": "その他の循環器系用薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9395,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9395,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9394,
+        "product_name": "ベナゼプリル塩酸塩錠5",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9292",
+        "hiragana_name": "べなぜぷりるえんさんえんじょう5",
+        "katakana_name": "ベナゼプリルエンサンエンジョウ5",
+        "product_display_name": "ベナゼプリル塩酸塩錠5",
+        "search_keys": "",
+        "api_active_ingredient": "ベナゼプリル塩酸塩",
+        "volume_unit": "Tablet (錠)",
+        "indication": "心臓の血液の流れを改善することで、心不全に伴う咳や呼吸困難、運動不耐性、食欲不振、活動性の低下等を改善します。また、慢性腎臓病（慢性腎不全）による尿中への蛋白の流出を抑制します。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 293,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "ベナゼプリル塩酸塩錠5",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 293,
+          "parent_id": 139,
+          "category_name": "その他の循環器系用薬",
+          "data_title": "その他の循環器系用薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9394,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9394,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9393,
+        "product_name": "ベナゼプリル塩酸塩錠2.5",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9291",
+        "hiragana_name": "べなぜぷりるえんさんえんじょう2.5",
+        "katakana_name": "ベナゼプリルエンサンエンジョウ2.5",
+        "product_display_name": "ベナゼプリル塩酸塩錠2.5",
+        "search_keys": "",
+        "api_active_ingredient": "ベナゼプリル塩酸塩",
+        "volume_unit": "Tablet (錠)",
+        "indication": "心臓の血液の流れを改善することで、心不全に伴う咳や呼吸困難、運動不耐性、食欲不振、活動性の低下等を改善します。また、慢性腎臓病（慢性腎不全）による尿中への蛋白の流出を抑制します。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 293,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "ベナゼプリル塩酸塩錠2.5",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 293,
+          "parent_id": 139,
+          "category_name": "その他の循環器系用薬",
+          "data_title": "その他の循環器系用薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9393,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9393,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9392,
+        "product_name": "アプカード錠3",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9290",
+        "hiragana_name": "あぷかーどじょう3",
+        "katakana_name": "アプカードジョウ3",
+        "product_display_name": "アプカード錠3",
+        "search_keys": "",
+        "api_active_ingredient": "トラセミド",
+        "volume_unit": "Tablet (錠)",
+        "indication": "利尿作用により血管や心臓を流れる血液の量を減らし、浮腫をとったり心臓の負担を減らしたりします。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 290,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "アプカード錠3",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 290,
+          "parent_id": 139,
+          "category_name": "利尿薬",
+          "data_title": "利尿薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9392,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9392,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9391,
+        "product_name": "アプカード錠0.75",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9289",
+        "hiragana_name": "あぷかーどじょう0.75",
+        "katakana_name": "アプカードジョウ0.75",
+        "product_display_name": "アプカード錠0.75",
+        "search_keys": "",
+        "api_active_ingredient": "トラセミド",
+        "volume_unit": "Tablet (錠)",
+        "indication": "利尿作用により血管や心臓を流れる血液の量を減らし、浮腫をとったり心臓の負担を減らしたりします。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Tablet (錠)",
+        "sub_category_id": 290,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "アプカード錠0.75",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 290,
+          "parent_id": 139,
+          "category_name": "利尿薬",
+          "data_title": "利尿薬"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9391,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9391,
+            "insurance_company_id": 2
+          }
+        ]
+      },
+      {
+        "id": 9390,
+        "product_name": "パラゲンローヤル",
+        "category_id": 139,
+        "product_description": null,
+        "tax": 10,
+        "is_price_enabled": 1,
+        "status": 1,
+        "type": "medicine",
+        "deleted_at": null,
+        "master_id": "VM-9288",
+        "hiragana_name": "ぱらげんろーやる",
+        "katakana_name": "パラゲンローヤル",
+        "product_display_name": "パラゲンローヤル",
+        "search_keys": "",
+        "api_active_ingredient": "チアミン塩酸塩",
+        "volume_unit": "Piece (個)",
+        "indication": "水溶性ビタミンの補給および欠乏による疾病の予防と治療に使用されます。",
+        "side_effects": "",
+        "contra_indicatin": "",
+        "sub_type": "medicine",
+        "sales_unit": "Piece (本)",
+        "sub_category_id": 312,
+        "is_default": 1,
+        "is_billable": 1,
+        "is_discount": 1,
+        "is_tax_enabled": 0,
+        "price": 0,
+        "data_title": "パラゲンローヤル",
+        "categorymap": {
+          "id": 139,
+          "parent_id": null,
+          "category_name": "内服薬",
+          "data_title": "内服薬"
+        },
+        "subcategorymap": {
+          "id": 312,
+          "parent_id": 139,
+          "category_name": "ビタミン・栄養・ミネラル剤",
+          "data_title": "ビタミン・栄養・ミネラル剤"
+        },
+        "insurance_companies": [
+          {
+            "product_id": 9390,
+            "insurance_company_id": 1
+          },
+          {
+            "product_id": 9390,
+            "insurance_company_id": 2
+          }
+        ]
+      }
+    ],
+    "headers": {
+      "master_id": {
+        "text": "Master ID",
+        "info": "For custom medicines: IDs will be CM-XXXX, For database medicines: IDs will be VM-XXXX",
+        "sample": [
+          "CM-XXXX",
+          "CM-XXXX"
+        ],
+        "example_1": "VM-XXXX",
+        "example_2": "VM-XXXX"
+      },
+      "product_id": {
+        "text": "ID",
+        "info": "This is the unique id for a product Ex(1,5,23,6)",
+        "sample": [
+          "",
+          ""
+        ],
+        "example_1": "",
+        "example_2": ""
+      },
+      "product_name": {
+        "text": "Medicine Name",
+        "info": "Name of a medicine must be unique",
+        "sample": [
+          "CBC",
+          "Grooming"
+        ],
+        "example_1": "CBC",
+        "example_2": "Grooming"
+      },
+      "category_id": {
+        "text": "Category Id",
+        "info": "This is the id of a category under which products falls",
+        "sample": [
+          "3",
+          "8"
+        ],
+        "example_1": "3",
+        "example_2": "8"
+      },
+      "is_default": {
+        "text": "Medicine type",
+        "info": "Medicine type is default database or custom",
+        "sample": [
+          "Database",
+          "Custom"
+        ],
+        "example_1": "Database",
+        "example_2": "Custom"
+      },
+      "product_price_per_unit": {
+        "text": "Product price per unit",
+        "info": "Medicine price",
+        "sample": [1, 0],
+        "example_1": 1,
+        "example_2": 0
+      },
+      "insurance_companies": {
+        "text": "Insurance",
+        "info": "In case item has insurance mapping, array of insurance company Ids should be provided as in sample, otherwise null",
+        "sample": [
+          "[1,2]",
+          "[4,6]"
+        ],
+        "example_1": "[1,2]",
+        "example_2": "[4,6]"
+      },
+      "is_discount": {
+        "text": "Discount",
+        "info": "is discount allowed or not, if yes type 1 otherwise 0",
+        "sample": [
+          "0",
+          "1"
+        ],
+        "example_1": "0",
+        "example_2": "1"
+      },
+      "product_description": {
+        "text": "Remark",
+        "info": "This is the more information about a product",
+        "sample": [
+          "Cummulative blood count test",
+          "Pets grooming service product"
+        ],
+        "example_1": "Cummulative blood count test",
+        "example_2": "Pets grooming service product"
+      },
+      "tax": {
+        "text": "Tax",
+        "info": "The percentage of tax applied to the product must not exceed 100",
+        "sample": [
+          "10",
+          "12"
+        ],
+        "example_1": "10",
+        "example_2": "12"
+      },
+      "status": {
+        "text": "Status",
+        "info": "You can see the active or inactive status of your product. 1 if active, 0 otherwise",
+        "sample": [
+          "1",
+          "0"
+        ],
+        "example_1": "1",
+        "example_2": "0"
+      },
+      "sub_category_id": {
+        "text": "Sub category Id",
+        "info": "This is the id of a sub category under which category falls",
+        "sample": [
+          "7",
+          "4"
+        ],
+        "example_1": "7",
+        "example_2": "4"
+      },
+      "product_display_name": {
+        "text": "Medicine print name",
+        "info": "Item print name to be used on paper instead of item name.",
+        "sample": [
+          "グルー",
+          "グル"
+        ],
+        "example_1": "グルー",
+        "example_2": "グル"
+      },
+      "is_billable": {
+        "text": "Invoiceable",
+        "info": "This value tells whether item can be sold through invoice or not, value for yes 1, otherwise 0",
+        "sample": [
+          "1",
+          "0"
+        ],
+        "example_1": "1",
+        "example_2": "0"
+      },
+      "hiragana_name": {
+        "text": "Hiragana name",
+        "info": "Hiragana script for item name.",
+        "sample": [
+          "グルーミング",
+          "グルー"
+        ],
+        "example_1": "グルーミング",
+        "example_2": "グルー"
+      },
+      "katakana_name": {
+        "text": "Katakana name",
+        "info": "Katakana script for item name.",
+        "sample": [
+          "グルーミング",
+          "グルー"
+        ],
+        "example_1": "グルーミング",
+        "example_2": "グルー"
+      },
+      "search_keys": {
+        "text": "Search keys",
+        "info": "Search key for item instead of item name",
+        "sample": [
+          "グルーミ",
+          "グル"
+        ],
+        "example_1": "グルーミ",
+        "example_2": "グル"
+      },
+      "api_active_ingredient": {
+        "text": "Api active ingredient",
+        "info": "Short detail of the item ingrediants.",
+        "sample": [
+          "Pet will be provided with lukewarm water bath.",
+          ""
+        ],
+        "example_1": "Pet will be provided with lukewarm water bath.",
+        "example_2": ""
+      },
+      "indication": {
+        "text": "Indication",
+        "info": "Something item shows as sign of.",
+        "sample": [
+          "Atropine is used to reduce saliva and fluid in the respiratory tract during surgery.",
+          "It is also used to treat insecticide or mushroom poisoning."
+        ],
+        "example_1": "Atropine is used to reduce saliva and fluid in the respiratory tract during surgery.",
+        "example_2": "It is also used to treat insecticide or mushroom poisoning."
+      },
+      "side_effects": {
+        "text": "Side effects",
+        "info": "Detail of side effects about the item.",
+        "sample": [
+          "Puffiness or swelling of the eyelids or around the eyes, face.",
+          "Unusual tiredness or weakness."
+        ],
+        "example_1": "Puffiness or swelling of the eyelids or around the eyes, face.",
+        "example_2": "Unusual tiredness or weakness."
+      },
+      "contra_indicatin": {
+        "text": "Contra indicatin",
+        "info": "Detail of contra indication of the item.",
+        "sample": [
+          "Puffiness or swelling of the eyelids or around the eyes, face.",
+          "Unusual tiredness or weakness."
+        ],
+        "example_1": "Puffiness or swelling of the eyelids or around the eyes, face.",
+        "example_2": "Unusual tiredness or weakness."
+      },
+      "volume_unit": {
+        "text": "Volume unit",
+        "info": "Volume unit under which item can be used or taken like  ml, mg etc",
+        "sample": [
+          "Kg",
+          "ml"
+        ],
+        "example_1": "Kg",
+        "example_2": "ml"
+      },
+      "sales_unit": {
+        "text": "Sales unit",
+        "info": "Sale unit under which item can be sold ml, mg etc",
+        "sample": [
+          "Kg",
+          "gm",
+          "ml"
+        ],
+        "example_1": "Kg",
+        "example_2": "gm",
+        "example_3": "ml"
+      },
+      "sub_type": {
+        "text": "Medical record",
+        "info": "Detail abount the item regarding medical usage. Exmple (Medicine,Rabies,Combination, Heartworm, Flea & Tick,All-in-one )",
+        "sample": [
+          "Rabies",
+          "medicine"
+        ],
+        "example_1": "Rabies",
+        "example_2": "medicine"
+      }
+    },
+    "sheets": {
+      "sheet_for_export": "Sheet for export",
+      "sheet_for_information": "Sheet for information",
+      "sheet_for_edit": "Sheet for edit"
+    }
+  },
+  "message": "data fetched successfully",
+  "timedate": "2024-09-12T09:52:08.653221Z"
+}
